@@ -1,12 +1,14 @@
 project-tool
 ============
 
-Quick hack to extract dependencies & their versions from msbuild projects (csproj)
+[![Build Status](https://travis-ci.org/sjmelia/project-tool.svg)](https://travis-ci.org/sjmelia/project-tool)
 
-Emits as a CSV file.
+Quick hack to extract dependencies & their versions from msbuild projects. (csproj) Useful for release notes, PCI compliance, and other kinds of documentation.
 
-Build
------
+Emits as CSV.
+
+Build & Run
+-----------
 
 1. Open solution, build
 2. Run with `project-tool <csproj file>`
