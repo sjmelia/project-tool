@@ -7,6 +7,8 @@ Quick hack to extract dependencies & their versions from msbuild projects. (cspr
 
 Emits as CSV.
 
+This might be a better option: https://github.com/nikeyes/DotNetProjectsDependenciesViewer
+
 Build & Run
 -----------
 
